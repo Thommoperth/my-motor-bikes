@@ -1,5 +1,15 @@
 h1 {
-    color: red;
+    color: rgb(177, 46, 52);
+}
+
+.gwfb img {
+    width: 100%;
+}
+.gwfb {
+    display: grid;
+   
+    
+    
 }
 
 .photos img {
